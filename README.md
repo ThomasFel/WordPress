@@ -1,1 +1,3 @@
-# Tugas Pertemuan 5 Software House HMTC ITS 2020
+# Wordpress
+
+Penugasan Software House HMTC ITS 2020 Pertemuan 5
